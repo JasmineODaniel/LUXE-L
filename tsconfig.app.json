@@ -26,5 +26,6 @@
     "noUncheckedSideEffectImports": true
   },
   "include": ["src/**/*"],
+  "files": ["src/main.tsx", "src/App.tsx"],
   "exclude": ["node_modules", "dist", "build"]
 }
